@@ -3,6 +3,7 @@ name = "filtro-chapa-turing-bot"
 version = "0.1.0"
 description = ""
 authors = ["Cauê Baasch de Souza <cauebs@pm.me>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "*"
