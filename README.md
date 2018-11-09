@@ -1,6 +1,6 @@
 # Usage
 
-Example `~/.config/filtro_chapa_turing_bot/config.json`:
+Example `~/.config/photo_frame_bot/config.json`:
 
 ```json
 {

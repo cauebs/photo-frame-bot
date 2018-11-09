@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "filtro-chapa-turing-bot"
+name = "photo-frame-bot"
 version = "0.1.0"
 description = ""
 authors = ["Cauê Baasch de Souza <cauebs@pm.me>"]
@@ -14,7 +14,7 @@ pillow = "^5.3"
 pytest = "^3.0"
 
 [tool.poetry.scripts]
-filtro-bot = "filtro_chapa_turing_bot.__main__:run"
+photo-frame-bot = "photo_frame_bot.__main__:run"
 
 [build-system]
 requires = ["poetry>=0.12"]
